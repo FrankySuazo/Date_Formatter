@@ -61,4 +61,3 @@ And with that, your date formatter is complete! You can now format the current d
 
 
 
-![image](https://github.com/FrankySuazo/Date_Formatter/assets/114836913/868fc799-fac0-41cf-950a-1f9766553499)
